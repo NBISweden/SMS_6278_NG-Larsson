@@ -1,6 +1,6 @@
 # Local BLAST
 
-- Last modified: mån maj 30, 2022  04:43
+- Last modified: tis maj 31, 2022  02:13
 - Sign: Johan.Nylander\@nbis.se
 
 ## Task
@@ -39,7 +39,7 @@ or use the command below
 
 ## Uncompress
 
-    $ unzip UP000000589_10090.fasta.gz
+    $ gunzip UP000000589_10090.fasta.gz
 
 ## Create the database
 
