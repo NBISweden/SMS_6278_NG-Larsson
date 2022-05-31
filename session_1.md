@@ -1,6 +1,6 @@
 # Database retrieval, similarity search, multiple sequence alignment, tree inference
 
-- Last modified: tis maj 31, 2022  02:43
+- Last modified: tis maj 31, 2022  02:50
 - Sign: Johan.Nylander\@bnis.se
 
 ## Task
@@ -12,7 +12,7 @@ inference.
 
 ## Setup
 
-Open the Terminal application (under /Applications/Utilities).
+Open the Terminal application (under `/Applications/Utilities`).
 
 Create a dedicated folder for the session
 
@@ -63,6 +63,14 @@ We will search for the keyword (gene name) `Polrmt`.
 The command `grep` will print any line in the infile matching the keyword.
 
     $ grep 'Polrmt' UP000000589_10090.fasta
+
+
+---
+
+**tis 31 maj 2022**
+
+---
+
 
 ## Extract one sequence of interest
 
