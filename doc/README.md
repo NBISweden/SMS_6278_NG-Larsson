@@ -1,11 +1,9 @@
 # README.md
 
-- Last modified: tis maj 24, 2022  05:52
+- Last modified: tis maj 31, 2022  02:47
 - Sign: nylander
 
 ## Description
-
-Hej Johan
 
 Pek:
 
@@ -25,7 +23,7 @@ Quantitative high confidence mitochondrial proteome
 <https://pubmed.ncbi.nlm.nih.gov/34800366/>
 
 
-Ett par proteiner(?): 
+Ett par proteiner:
 
 - EXO2
 - POLDIP
