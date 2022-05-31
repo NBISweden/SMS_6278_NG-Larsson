@@ -1,6 +1,6 @@
 # Database retrieval, similarity search, multiple sequence alignment, tree inference
 
-- Last modified: tis maj 31, 2022  02:50
+- Last modified: tis maj 31, 2022  03:51
 - Sign: Johan.Nylander\@bnis.se
 
 ## Task
@@ -9,6 +9,10 @@ We will use a protein sequence from a [mouse
 proteome](https://www.uniprot.org/proteomes/UP000000589), and do similarity
 search (using blast), followed by multiple-sequence alignment, and tree
 inference.
+
+The exercises are designed to use online tools as much as possible. Some
+text editing are required, and for more elaborative tasks, some example tools
+are provided (in the [`bin/`](bin/) folder).
 
 ## Setup
 
