@@ -1,6 +1,6 @@
 # Database retrieval, similarity search, multiple sequence alignment, tree inference
 
-- Last modified: tis maj 31, 2022  03:51
+- Last modified: fre jun 10, 2022  08:47
 - Sign: Johan.Nylander\@bnis.se
 
 ## Task
@@ -28,7 +28,7 @@ Create a dedicated folder for the session
 Use this
 [*link*](https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/reference_proteomes/Eukaryota/UP000000589/UP000000589_10090.fasta.gz)
 or use the command below. The command `curl` ("cat URL") is a browser without a
-graphical user interface. Here we use it to download from a URL.
+graphical user interface. Here we use it to download from an URL.
 
 \tiny
 
@@ -92,7 +92,7 @@ overwrite any existing files with the same name (no warnings!)
 
     $ grepfasta.pl -p="Polrmt" UP000000589_10090.fasta > Polrmt.faa
 
-The filename `Polrmt.faa` is arbitrary, but we name if from the gene name, and add
+The filename `Polrmt.faa` is arbitrary, but we use the gene name, and add
 the suffix `.faa` to inform us that it is a fasta-fromatted file, with amino acids.
 
 ## Run BLAST (online)
