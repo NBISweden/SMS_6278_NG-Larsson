@@ -1,6 +1,6 @@
 # Database retrieval, similarity search, multiple sequence alignment, tree inference
 
-- Last modified: fre jun 10, 2022  08:47
+- Last modified: fre jun 10, 2022  12:33
 - Sign: Johan.Nylander\@bnis.se
 
 ## Task
@@ -69,13 +69,6 @@ The command `grep` will print any line in the infile matching the keyword.
     $ grep 'Polrmt' UP000000589_10090.fasta
 
 
----
-
-**tis 31 maj 2022**
-
----
-
-
 ## Extract one sequence of interest
 
 Here we will use one sequence from the file `UP000000589_10090.fasta` as
@@ -127,7 +120,7 @@ commands after another. The second reads the output from the first, and gives
 the ouptut to the third and so on.
 
     $ grep '>' blast_out.faa | \
-        cut -d[ -f 2 | \
+        cut -d'[' -f 2 | \
         sed 's/]//' | \
         sort | \
         uniq -c | \
@@ -136,7 +129,7 @@ the ouptut to the third and so on.
 Save the unique names to a file (`uniq.taxa`)
 
     $ grep '>' blast_out.faa | \
-        cut -d[ -f 2 | \
+        cut -d'[' -f 2 | \
         sort -u | \
         sed 's/]//' > uniq.taxa
 
@@ -151,6 +144,13 @@ Search the fasta file and extract max one per name
 How many sequence do we have left?
 
     $ grep -c '>' blast_out.taxonfilter.faa
+
+
+---
+
+fre 10 jun 2022 12:31:40
+
+---
 
 ## Manipulate (shorten) the sequence labels
 
