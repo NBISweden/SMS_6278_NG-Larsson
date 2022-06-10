@@ -1,17 +1,15 @@
 # Setup on macos
 
-- Last modified: tis maj 31, 2022  03:18
+- Last modified: fre jun 10, 2022  01:19
 - Sign: JN
 
 ## 1. Local bin and path
 
     $ mkdir -p /Users/$USER/bin
 
-Create/edit the `~/.bash_profile` (`/Users/$USER/.bash_profile`) to include
+Create/edit the `~/.zshrc` (or `/Users/$USER/.zshrc`) to include
 
-    if [ -d /Users/$USER/bin ] ; then
-        export PATH=/Users/$USER/bin:$PATH
-    fi
+    export PATH=/Users/$USER/bin:$PATH"
 
 
 **Note:** 2-4 are shipped as a compressed tar archive [`bundle1.tgz`](bundle1.tgz)
