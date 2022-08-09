@@ -1,6 +1,6 @@
 # The mt proteome from Morgenstein et al.
 
-- Last modified: tis aug 09, 2022  06:22
+- Last modified: tis aug 09, 2022  06:29
 - Sign: JN
 
 ## Description
@@ -17,7 +17,8 @@ More specifically, the section called Deposited Data looks promising:
 ```
 Proteomic datasets (MS/MS raw files and MaxQuant analysis files)	This paper
 ProteomeXchange: PXD016924, PXD018122, PXD018182, PXD028149, PXD028169,
-PXD029242 ```
+PXD029242
+```
 
 The ID's starting in `PXD` are dataset IDs on the [ProteomeExchange
 site](http://www.proteomexchange.org/).  Each dataset have a description page
