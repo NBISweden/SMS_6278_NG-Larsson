@@ -1,6 +1,6 @@
-# The mt proteome from Morgenstein et al.
+# The mt proteome from Morgenstern et al.
 
-- Last modified: tis aug 09, 2022  06:29
+- Last modified: ons aug 10, 2022  03:29
 - Sign: JN
 
 ## Description
