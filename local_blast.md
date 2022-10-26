@@ -1,7 +1,7 @@
 # Local BLAST
 
-- Last modified: tis maj 31, 2022  03:47
-- Sign: Johan.Nylander\@nbis.se
+- Last modified: ons okt 26, 2022  11:49
+- Sign: nylander
 
 ## Task
 

@@ -1,7 +1,7 @@
 # MitoCarta 3.0
 
-- Last modified: tis aug 09, 2022  04:41
-- Sign: JN
+- Last modified: ons okt 26, 2022  11:48
+- Sign: nylander
 
 ## Description
 

@@ -1,7 +1,7 @@
 # Database retrieval, similarity search, multiple sequence alignment, tree inference
 
-- Last modified: fre jun 10, 2022  12:33
-- Sign: Johan.Nylander\@bnis.se
+- Last modified: ons okt 26, 2022  11:49
+- Sign: nylander
 
 ## Task
 

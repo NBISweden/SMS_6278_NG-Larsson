@@ -1,7 +1,7 @@
 # Setup on macos
 
-- Last modified: ons okt 26, 2022  11:44
-- Sign: JN
+- Last modified: ons okt 26, 2022  11:48
+- Sign: nylander
 
 
 ## What chip is in my Mac?
