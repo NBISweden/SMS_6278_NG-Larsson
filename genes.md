@@ -1,6 +1,6 @@
 # Look at specific genes
 
-- Last modified: tor sep 01, 2022  02:57
+- Last modified: ons okt 26, 2022  11:19
 - Sign: JN
 
 ## Description
@@ -25,6 +25,8 @@ Precomputed
 [assessments](https://www.ncbi.nlm.nih.gov/kis/info/how-are-orthologs-calculated/):
 
 <https://www.ncbi.nlm.nih.gov/gene/9167/ortholog/?scope=89593&term=COX7A2L>
+
+See also the link ["Genes similar to COX7A2L"](https://www.ncbi.nlm.nih.gov/gene/9167/ortholog/similargenes/)
 
 - Select some Species
 - Click Protein alignment -> one sequence per gene -> Align -> Align
@@ -62,10 +64,6 @@ We do have, however, a ready alignment, so we will skipt that step in the workfl
         - Tree Rendering -> Newick Display
 
 
-https://molbiol-tools.ca/Phylogeny.htm
-
-
-
 
 Re-visit phylogeny.fr (see
 [download_blast_alignment_trees.md](download_blast_alignment_trees.md)):
@@ -74,9 +72,7 @@ sep 2022 14:12:09!**
 
 Alternatives:
 
-- [https://ngphylogeny.fr/](https://ngphylogeny.fr/)
-
-
+- [https://ngphylogeny.fr/](https://ngphylogeny.fr/) **Service unavailable ons 26 okt 2022 23:19:35!**
 - <https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/> ([Neighbor
   joining](https://en.wikipedia.org/wiki/Neighbor_joining) tree)
 - <http://iqtree.cibiv.univie.ac.at/> ([maximum
